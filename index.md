@@ -13,4 +13,4 @@ Aluna does not use third-party analytics, advertising networks, or tracking SDKs
 If you wish to delete your data, simply delete the app from your device. All locally stored records will be permanently removed.
 
 5. Contact Us
-If you have any questions regarding this Privacy Policy, please contact us aluna.tracker.app@gmail.com.
+If you have any questions regarding this Privacy Policy, please contact us at [aluna.tracker.app@gmail.com](mailto:aluna.tracker.app@gmail.com).
